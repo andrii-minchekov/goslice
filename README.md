@@ -1,0 +1,2 @@
+# goslice
+Go slice manipuation
